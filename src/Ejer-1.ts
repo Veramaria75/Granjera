@@ -1,0 +1,12 @@
+console.log("Bizcochuelo");
+console.log("colocar Bowl");
+console.log("Huevos");
+console.log("Azucar");
+console.log("Vainilla");
+console.log("Batir por 20 minutos");
+console.log("Dejar de batir");
+console.log("Agregar Harina");
+console.log("Polvo de hornear");
+console.log("integrar");
+console.log("llevar al horno por 30 minutos");
+console.log("retirar y dejar enfriar");
